@@ -1,0 +1,10 @@
+---
+title: "Github 1"
+output: html_notebook
+---
+
+# Create some plot on added r chunk
+```{r}
+plot(cars, x;ab= "Speed in mph")
+```
+
